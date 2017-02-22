@@ -10,3 +10,6 @@ Reborn Nuzlocke? More like lmao this is suicidal
 	
 # Theme used:
 	https://bootswatch.com/paper
+	
+# Replay thing:
+	https://metatyph.github.io/rebornuzlog/OC1-164918485.rofl
